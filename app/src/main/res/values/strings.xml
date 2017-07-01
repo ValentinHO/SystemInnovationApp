@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AppMecanic</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_item">Inicio</string>
+    <string name="localization">Localizar Mécanicos</string>
+    <string name="tips">Consultar tips</string>
+    <string name="tips_title">Tips</string>
+    <string name="mecanicos_title">Mecánicos</string>
+    <string name="evaluate">Información sobre el mecánico</string>
+    <string name="details">Detalle del tip</string>
+    <string name="user">Username</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="contact">Contáctanos</string>
+    <string name="closetips">Cerrar Tip</string>
+
+    <string name="infocon1">
+        <![CDATA[
+            Lo único que necesitas es ponerte en contacto con nosotros de la siguiente forma:<br><br>
+            Envíanos un correo a esta dirección con las siguientes características:<br><br>
+            <strong>Correo:</strong> <i>systeminoovation2017@gmail.com.mx</i><br>
+            <strong>Asunto:</strong> <i>Quiero promocionar</i><br>
+            <strong>Descripción:</strong> <i>(En esta sección necesitamos algunos datos para poder contactarte, por ejemplo: teléfono, dirección de tu taller mecánico, nombre)</i><br><br>
+        ]]>
+    </string>
+
+    <string name="infocon2">
+        <![CDATA[
+            <strong>Así de Fácil</strong><br><br>
+        ]]>
+    </string>
+
+    <string name="infocon3">
+        <![CDATA[
+            O puedes comunicarte con nosotros vía telefónica a los siguientes números:<br><br>
+        ]]>
+    </string>
+
+    <string name="infocon4">
+        <![CDATA[
+            Tel.: (591) 6542986<br>
+            Cel.: (045) 5587541235<br><br><br>
+            <strong>¡Te estamos esperando!</strong>
+        ]]>
+    </string>
+
+</resources>
